@@ -5,3 +5,4 @@ gem 'rake'
 
 gem 'motion-sqlite3'
 gem 'motion-provisioning'
+gem 'motion.h', git: 'git@github.com:amirrajan/motion.h.git'

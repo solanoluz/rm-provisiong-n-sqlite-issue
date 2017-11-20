@@ -1,3 +1,9 @@
+GIT
+  remote: git@github.com:amirrajan/motion.h.git
+  revision: 921dba4a104c551462066c920ace5b80b7521ced
+  specs:
+    motion.h (0.0.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -100,7 +106,6 @@ GEM
       spaceship (~> 0.38)
     motion-sqlite3 (0.5.3)
       motion.h (~> 0.0.4)
-    motion.h (0.0.4)
     multi_json (1.12.2)
     multi_xml (0.6.0)
     multipart-post (2.0.0)
@@ -159,6 +164,7 @@ PLATFORMS
 DEPENDENCIES
   motion-provisioning
   motion-sqlite3
+  motion.h!
   rake
 
 BUNDLED WITH
